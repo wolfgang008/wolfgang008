@@ -17,7 +17,7 @@
 
 ---
 
-<table width="100%">
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <sub><strong>02 / MADE — 作品</strong></sub>

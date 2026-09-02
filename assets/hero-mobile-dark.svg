@@ -1,0 +1,24 @@
+<svg width="720" height="450" viewBox="0 0 720 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="42" y1="48" x2="678" y2="48" stroke="#2A2E34"/>
+
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+    <text x="42" y="34" fill="#8C9198" font-size="15" font-weight="650" letter-spacing="2.6">PERSONAL LAB</text>
+    <circle cx="672" cy="29" r="4" fill="#5E7BFF"/>
+
+    <text x="38" y="151" fill="#F3F1EC" font-size="78" font-weight="780" letter-spacing="5">WOLFGANG</text>
+
+    <rect x="42" y="184" width="56" height="3" rx="1.5" fill="#5E7BFF"/>
+    <text x="120" y="193" fill="#F3F1EC" font-size="23" font-weight="680" letter-spacing="2.6">INDEPENDENT AI DEVELOPER</text>
+    <text x="120" y="237" fill="#8C9198" font-size="22" font-weight="620" letter-spacing="2.2">独立 AI 开发者</text>
+
+    <text x="42" y="319" fill="#F3F1EC" font-size="34" font-weight="700" letter-spacing="2">做，爱做的事。</text>
+    <text x="42" y="361" fill="#8C9198" font-size="20" font-weight="600" letter-spacing="1.5">TURN IDEAS INTO REALITY WITH AI.</text>
+
+    <line x1="42" y1="396" x2="678" y2="396" stroke="#2A2E34"/>
+    <text x="42" y="428" fill="#8C9198" font-size="16" font-weight="620" letter-spacing="2">IDEA</text>
+    <text x="111" y="428" fill="#5E7BFF" font-size="16" font-weight="750">→</text>
+    <text x="146" y="428" fill="#8C9198" font-size="16" font-weight="620" letter-spacing="2">AI</text>
+    <text x="184" y="428" fill="#5E7BFF" font-size="16" font-weight="750">→</text>
+    <text x="219" y="428" fill="#F3F1EC" font-size="16" font-weight="700" letter-spacing="2">REALITY</text>
+  </g>
+</svg>

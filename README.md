@@ -19,7 +19,7 @@
 ### 01 / BUILDS
 
 <sub>001</sub>　**[墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)**
-<br><sub>水墨鱼群的 AI 群体智能实验。</sub>
+<br><sub>水墨美学 × 群体智能 × AI 鱼群导演</sub>
 
 <sub>002</sub>　**[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)**
 <br><sub>让小鸟通过遗传算法学会飞行。</sub>

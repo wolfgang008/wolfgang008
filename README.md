@@ -1,47 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Wolfgang — 独立 AI 开发者" src="./assets/hero-light.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="./assets/wolfgang-gradient.svg" alt="WOLFGANG" width="100%">
+</p>
 
-## 01 / ABOUT — 关于我
+<p align="center">
+  <strong>独立 AI 开发者</strong><br>
+  <sub>INDEPENDENT AI DEVELOPER</sub>
+</p>
 
-**我是 Wolfgang，一名独立 AI 开发者。**
-
-做，爱做的事。<br>
-通过 AI，把想法变成现实。
+<p align="center">
+  做，爱做的事。<br>
+  通过 AI，把想法变成现实。
+</p>
 
 ---
 
-## 02 / BUILDS — 我做的东西
+## 01 / ABOUT — 关于我
 
-**01**　[墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)
+Wolfgang — 独立 AI 开发者
 
-**02**　[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)
+## 02 / BUILDS — 项目索引
+
+<sub>01</sub>　**[墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)**
+
+<sub>02</sub>　**[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)**
 
 <!-- 新增作品时，只需复制下一行并修改编号、名称和链接：
-**03**　[PROJECT NAME ↗](PROJECT_URL)
+<sub>03</sub>　**[PROJECT NAME ↗](PROJECT_URL)**
 -->
 
 ## 03 / NOW — 此刻
 
 **独立开发中。**
 
-继续做新的 AI 产品，<br>
-继续把有意思的想法变成现实。
+在做、在试、在迭代。<br>
+寻找下一个值得动手的东西。
 
 ---
 
-## 04 / SIGNAL — 最近
+## 04 / FLOW — 活动轨迹
 
-<sub><strong>近期</strong></sub>
-
-[墨影惊鳞](https://github.com/wolfgang008/mo-ying-jing-lin)　·　[Flappy Bird AI](https://github.com/wolfgang008/flappy-bird)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfgang008/wolfgang008/output/wolfgang-flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolfgang008/wolfgang008/output/wolfgang-flow.svg">
+  <img alt="Wolfgang contribution flow" src="https://raw.githubusercontent.com/wolfgang008/wolfgang008/output/wolfgang-flow.svg" width="100%">
+</picture>
 
 <br>
 
 <p align="center">
-  <strong>做，爱做的事。</strong>
+  <sub>WOLFGANG · INDEPENDENT AI DEVELOPER</sub>
 </p>

@@ -16,17 +16,20 @@
 
 ---
 
-### 01 / BUILDS — 构建索引
+### 01 / BUILDS
 
 <sub>001</sub>　**[墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)**
+<br><sub>水墨鱼群的 AI 群体智能实验。</sub>
 
 <sub>002</sub>　**[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)**
+<br><sub>让小鸟通过遗传算法学会飞行。</sub>
 
-<!-- 新增作品时，只需复制下一行并修改编号、名称和链接：
+<!-- 新增作品时，只需复制下面两行并修改编号、名称、链接和介绍：
 <sub>003</sub>　**[PROJECT NAME ↗](PROJECT_URL)**
+<br><sub>一句极简的项目介绍。</sub>
 -->
 
-### 02 / NOW — 此刻
+### 02 / NOW
 
 **独立开发中。**
 
@@ -35,7 +38,7 @@
 
 ---
 
-### 03 / BUILD TRACE — 构建轨迹
+### 03 / BUILD TRACE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfgang008/wolfgang008/output/wolfgang-flow-dark.svg">

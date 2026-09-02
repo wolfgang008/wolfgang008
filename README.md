@@ -17,21 +17,24 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <sub><strong>02 / MADE — 作品</strong></sub>
-      <h3><a href="https://github.com/wolfgang008/mo-ying-jing-lin">墨影惊鳞 ↗</a></h3>
-      <p>水墨美学 × 群体智能 × AI 鱼群导演</p>
-    </td>
-    <td width="50%" valign="top">
-      <sub><strong>03 / NOW — 此刻</strong></sub>
-      <h3>独立开发中</h3>
-      <p>正在创造新的 AI 产品。</p>
-    </td>
-  </tr>
-</table>
+## 02 / MADE — 作品
 
-<p align="center">
-  <sub>WOLFGANG · 2026</sub>
-</p>
+### 01 — [墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)
+
+水墨美学 × 群体智能 × AI 鱼群导演
+
+<!--
+添加新作品时，复制下面三行：
+
+### 02 — [作品名称 ↗](作品链接)
+
+一句话介绍
+-->
+
+---
+
+## 03 / NOW — 此刻
+
+### 独立开发中
+
+正在创造新的 AI 产品。

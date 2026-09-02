@@ -22,7 +22,7 @@
 <br><sub>水墨美学 × 群体智能 × AI 鱼群导演</sub>
 
 <sub>002</sub>　**[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)**
-<br><sub>让小鸟通过遗传算法学会飞行。</sub>
+<br><sub>让一只小鸟用简单遗传算法，自己学会飞过 100 根水管</sub>
 
 <!-- 新增作品时，只需复制下面两行并修改编号、名称、链接和介绍：
 <sub>003</sub>　**[PROJECT NAME ↗](PROJECT_URL)**

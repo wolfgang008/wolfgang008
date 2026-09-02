@@ -1,0 +1,50 @@
+<svg width="1100" height="250" viewBox="0 0 1100 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>WOLFGANG — sketch to solid</title>
+  <defs>
+    <clipPath id="build-clip-light">
+      <rect class="build-reveal" x="68" y="62" width="964" height="138"/>
+    </clipPath>
+    <style>
+      .build-reveal { transform-box: fill-box; transform-origin: left center; animation: reveal 10s ease-in-out infinite; }
+      .construction { animation: guides 10s ease-in-out infinite; }
+      .build-point { animation: cursor 10s ease-in-out infinite; }
+      @keyframes reveal {
+        0%, 10% { transform: scaleX(0); }
+        32%, 79% { transform: scaleX(1); }
+        96%, 100% { transform: scaleX(0); }
+      }
+      @keyframes guides {
+        0%, 18%, 94%, 100% { opacity: 1; }
+        34%, 80% { opacity: .24; }
+      }
+      @keyframes cursor {
+        0%, 10% { opacity: 1; transform: translateX(0); }
+        31% { opacity: 1; transform: translateX(946px); }
+        32%, 80% { opacity: 0; transform: translateX(946px); }
+        94%, 100% { opacity: 1; transform: translateX(0); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .build-reveal { animation: none; transform: scaleX(1); }
+        .construction { animation: none; opacity: .24; }
+        .build-point { display: none; }
+      }
+    </style>
+  </defs>
+
+  <g class="construction" stroke-linecap="square">
+    <line x1="68" y1="195" x2="1032" y2="195" stroke="#D8D8D3"/>
+    <path d="M68 70V48H92 M1008 207H1032V185" stroke="#B8B8B2" stroke-width="1.2"/>
+    <line x1="68" y1="38" x2="1032" y2="38" stroke="#D8D8D3"/>
+    <line x1="68" y1="31" x2="68" y2="45" stroke="#B8B8B2"/>
+    <line x1="1032" y1="31" x2="1032" y2="45" stroke="#B8B8B2"/>
+    <circle cx="180" cy="70" r="3" fill="#B8B8B2" stroke="none"/>
+    <circle cx="900" cy="70" r="3" fill="#B8B8B2" stroke="none"/>
+    <text x="978" y="29" fill="#B8B8B2" stroke="none" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="650" letter-spacing="1.5">+12</text>
+  </g>
+  <circle cx="550" cy="195" r="4" fill="#F04A24"/>
+
+  <text x="550" y="174" fill="none" stroke="#B8B8B2" stroke-width="1.35" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="126" font-weight="820" letter-spacing="10" text-anchor="middle">WOLFGANG</text>
+  <text x="550" y="174" fill="#171717" clip-path="url(#build-clip-light)" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="126" font-weight="820" letter-spacing="10" text-anchor="middle">WOLFGANG</text>
+
+  <rect class="build-point" x="68" y="187" width="9" height="9" fill="#F04A24"/>
+</svg>

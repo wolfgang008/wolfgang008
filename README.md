@@ -19,7 +19,7 @@
 ### 01 / BUILDS
 
 <sub>001</sub>　**[墨影惊鳞 ↗](https://github.com/wolfgang008/mo-ying-jing-lin)**
-<br><sub>水墨美学 × 群体智能 × AI 鱼群导演</sub>
+<br><sub>水墨美学 × 群体智能 × AI 鱼群导演｜上海波克 Vibe Jam 决赛入围作品</sub>
 
 <sub>002</sub>　**[Flappy Bird AI ↗](https://github.com/wolfgang008/flappy-bird)**
 <br><sub>让一只小鸟用简单遗传算法，自己学会飞过 100 根水管</sub>
